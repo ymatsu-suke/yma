@@ -1,0 +1,10 @@
+<div class="p-worksIndex__listItem c-cardWorks worksCard">
+  <a href="new-project.html">
+    <div class="c-cardWorks__thumb">
+      <img src="images/new-project.jpg" alt="New Project">
+    </div>
+    <div class="c-cardWorks__info">
+      <h3 class="c-cardWorks__ttl">New Project</h3>
+    </div>
+  </a>
+</div>
